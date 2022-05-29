@@ -11,4 +11,4 @@ Se ha hecho un análisis preliminar de la base de datos. Consta de 89 variables 
 
 
 # Continuación
-Una vez se tiene la versión del dataset para este estudio, se procede a hacer un conteo de missings ya que, puede ocurrir que, una variable que sea relevanet para el estudio cuente con un número muy elevado de missing values y por tanto no pueda ser utilizada. 
+Una vez se tiene la versión del dataset para este estudio, se procede a hacer un conteo de missings ya que, puede ocurrir que, una variable que sea relevante para el estudio cuente con un número muy elevado de missing values y por tanto no pueda ser utilizada. 
